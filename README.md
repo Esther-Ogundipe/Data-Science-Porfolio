@@ -11,4 +11,4 @@
 * Determine the success criteria of the business
 * Narrowed down on the top three venues that are best for opening the business
 
-![](images/battle of neighborhods.png)
+![](https://github.com/Esther-Ogundipe/Data-Science-Porfolio/blob/master/images/battle%20of%20neighborhods.png)
