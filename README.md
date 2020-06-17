@@ -11,7 +11,7 @@
 * Determine the success criteria of the business
 * Narrowed down on the top three venues that are best for opening the business
 
-![](/battle%20of%20neighborhods.png)
+![](/battle_of_neighborhods.png)
 
 # [Project 2: Exploratory Data Analysis](https://github.com/Esther-Ogundipe/London-Housing-Analysis)
 
@@ -20,5 +20,5 @@
 ## Project Overview
 Exploratory Data Analysis with Python using a dataset of Housing in London. I tried my hand at creating plots and charts to identify the relationships between variables using libraries like pandas, numpy, matplotlib, seaborn, geopandas and plotly express.
 
-![](/image%20london%20housing.png)
+![](/image_london_housing.png)
 
