@@ -10,8 +10,7 @@
 * Identifies the target audience for a new business establishment
 * Determine the success criteria of the business
 * Narrowed down on the top three venues that are best for opening the business
-
-![](/battle%20of%20neighborhods.png)
+![](https://github.com/Esther-Ogundipe/Data-Science-Portfolio/blob/master/battle%20of%20neighborhods.png)
 
 # [Project 2: Exploratory Data Analysis](https://github.com/Esther-Ogundipe/London-Housing-Analysis)
 
