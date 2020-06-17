@@ -1,6 +1,8 @@
 
 
-# [Project 1: IBM Data Science Capstone Project: Project Overview](https://github.com/Sparkle-IT/Data-Science-Porfolio)
+# [Project 1: IBM Data Science Capstone Project](https://github.com/Sparkle-IT/Data-Science-Porfolio)
+
+# Project Overview
 * Retrieved, Wrangled, Cleaned, Analyzed data using Python
 * Identified a business problem 
 * Identifies the target audience for a new business establishment
