@@ -19,5 +19,5 @@
 ## Project Overview
 Exploratory Data Analysis with Python using a dataset of Housing in London. I tried my hand at creating plots and charts to identify the relationships between variables using libraries like pandas, numpy, matplotlib, seaborn, geopandas and plotly express.
 
-![](/IMG-4270.png)
+![](https://github.com/Esther-Ogundipe/Data-Science-Portfolio/blob/master/image%20london%20housing.png)
 
