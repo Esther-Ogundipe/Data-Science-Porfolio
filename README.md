@@ -13,7 +13,7 @@
 
 ![](/battle_of_neighborhods.png)
 
-# [Project 2: Exploratory Data Analysis](https://github.com/Esther-Ogundipe/London-Housing-Analysis)
+# [Project 2: Exploratory Data Analysis](https://www.kaggle.com/estherogundipe/london-housing-dataset-eda)
 
 # London Housing Dataset Analysis
 
