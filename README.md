@@ -11,7 +11,7 @@
 * Determine the success criteria of the business
 * Narrowed down on the top three venues that are best for opening the business
 
-![](/images/battle%20of%20neighborhods.png)
+![](/battle%20of%20neighborhods.png)
 
 # [Project 2: Exploratory Data Analysis](https://github.com/Esther-Ogundipe/London-Housing-Analysis)
 
