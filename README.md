@@ -1,6 +1,6 @@
 
 
-# [Project 1: IBM Data Science Capstone Project](https://github.com/Sparkle-IT/Data-Science-Porfolio)
+# [Project 1: IBM Data Science Capstone Project](https://github.com/EstherOgundipe/Data-Science-Porfolio)
 
 # Project Overview
 * Retrieved, Wrangled, Cleaned, Analyzed data using Python
