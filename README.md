@@ -1,4 +1,4 @@
-# Capstone
+# Data Science Portfolio
 
 # Project 1: IBM Data Science Capstone Project: Project Overview
 * Retrieved, Wrangled, Cleaned, Analyzed data using Python
