@@ -2,7 +2,9 @@
 
 # [Project 1: IBM Data Science Capstone Project](https://github.com/Esther-Ogundipe/Data-Science-Porfolio)
 
-# Project Overview
+# Battle of Neighborhoods
+
+## Project Overview
 * Retrieved, Wrangled, Cleaned, Analyzed data using Python
 * Identified a business problem 
 * Identifies the target audience for a new business establishment
