@@ -22,7 +22,7 @@ Exploratory Data Analysis with Python using a dataset of Housing in London. I tr
 
 ![](/image_london_housing.png)
 
-# Project 3: [Classification in R Programming](https://github.com/Esther-Ogundipe/Portfolio-Project-1/tree/develop)
+# [Project 3: Classification in R Programming](https://github.com/Esther-Ogundipe/Portfolio-Project-1/tree/develop)
 
 # Sentiment Analysis
 
