@@ -22,13 +22,14 @@ Exploratory Data Analysis with Python using a dataset of Housing in London. I tr
 
 ![](/image_london_housing.png)
 
-# Project 3: [Sentiment Analysis](https://github.com/Esther-Ogundipe/Portfolio-Project-1/tree/develop)
+# Project 3: [Classification in R Programming](https://github.com/Esther-Ogundipe/Portfolio-Project-1/tree/develop)
 
-# Classification in R Programming
+# Sentiment Analysis
 
 ## Project Overview
 Sentiment Analysis is a type of classification where the data is classified into different classes. These classes can be binary in nature (positive or negative) or, they can have multiple classes (happy, sad, angry, etc.).
 
+* Performed this analysis in Rstudio IDE
 * Used a dataset provided by the R package ‘janeaustenR’.
 * Used of the tidytext package that comprises of sentiment lexicons that are present in the dataset of ‘sentiments’.
 * Utilized packages such as tidyr, dplyr, reshape2, wordcloud,ggplot2, stringr
