@@ -34,5 +34,5 @@ Sentiment Analysis is a type of classification where the data is classified into
 * Used of the tidytext package that comprises of sentiment lexicons that are present in the dataset of ‘sentiments’.
 * Utilized packages such as tidyr, dplyr, reshape2, wordcloud,ggplot2, stringr
 
-![](master/word_cloud.png)
+![](https://github.com/Esther-Ogundipe/Portfolio-Project-1/blob/master/word_cloud.png)
 
