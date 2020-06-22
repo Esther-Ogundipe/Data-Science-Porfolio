@@ -13,7 +13,7 @@
 
 ![](/battle_of_neighborhods.png)
 
-# [Project 2: Exploratory Data Analysis](https://www.kaggle.com/estherogundipe/london-housing-dataset-eda)
+# [Project 2: Exploratory Data Analysis in Python](https://www.kaggle.com/estherogundipe/london-housing-dataset-eda)
 
 # London Housing Dataset Analysis
 
