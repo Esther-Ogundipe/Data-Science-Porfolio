@@ -10,7 +10,9 @@ Sentiment analysis is the process of computationally identifying and categorizin
 * Used a dataset provided by the R package ‘janeaustenR’.
 * Used of the tidytext package that comprises of sentiment lexicons that are present in the dataset of ‘sentiments’.
 * Utilized packages such as tidyr, dplyr, reshape2, wordcloud,ggplot2, stringr
-* Visualized by creating a plot and wordcloud
+* I used functions such as filter(), spread(), mutate() to find correspondence, segregate and calculate total sentiment.
+* I created a wordcloud to delineate the most recurring positive and negative words. 
+* Visualized by creating a plot showing sentiment score 
 
 ![](/word_cloud.png) 
 
