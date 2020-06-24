@@ -4,14 +4,15 @@
 # Sentiment Analysis
 
 ## Project Overview
-Sentiment Analysis is a type of classification where the data is classified into different classes. These classes can be binary in nature (positive or negative) or, they can have multiple classes (happy, sad, angry, etc.).
+Sentiment analysis is the process of computationally identifying and categorizing opinions expressed in a piece of text, to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral.
 
 * Performed this analysis in Rstudio IDE
 * Used a dataset provided by the R package ‘janeaustenR’.
 * Used of the tidytext package that comprises of sentiment lexicons that are present in the dataset of ‘sentiments’.
 * Utilized packages such as tidyr, dplyr, reshape2, wordcloud,ggplot2, stringr
+* Visualized by creating a plot and wordcloud
 
-![](/word_cloud.png)
+![](/word_cloud.png) 
 
 # [Project 2: Exploratory Data Analysis](https://www.kaggle.com/estherogundipe/london-housing-dataset-eda)
 
