@@ -1,3 +1,17 @@
+# [Project 4: Python Pandas and Matplotlib](https://github.com/Esther-Ogundipe/Pandas_Matplotlib)
+
+# Analysis of Sales
+
+## Project Overview
+Project using python pandas and matplotlib to establish relationships between different variable.
+
+* Data cleaning: Droping NaN values, changing column type.
+* Explore five business questions: What month, city and product made the most sales and what is the best time for advertisement
+* Utilized pandas and matplotlib methods: Concatenating multiple csvs into one, performing aggregate analysis and plotting charts and graphs
+
+
+
+
 
 # [Project 3: Classification in R Programming](https://github.com/Esther-Ogundipe/Portfolio-Project-1/tree/develop)
 
