@@ -9,6 +9,8 @@ Project using python pandas and matplotlib to establish relationships between di
 * Exploring five business questions: What month, city and product made the most sales and what is the best time for advertisement
 * Utilized pandas and matplotlib methods: Concatenate multiple csv files into one, performe aggregate analysis and plot charts and graphs
 
+![](/sales_analysis.png)
+
 
 
 
