@@ -1,4 +1,4 @@
-# [Project 4: Python Pandas and Matplotlib](https://github.com/Esther-Ogundipe/Pandas_Matplotlib)
+# [Project 4; Python Pandas and Matplotlib](https://github.com/Esther-Ogundipe/Pandas_Matplotlib)
 
 # Analysis of Sales
 
@@ -15,7 +15,7 @@ Project using python pandas and matplotlib to establish relationships between di
 
 
 
-# [Project 3: Classification in R Programming](https://github.com/Esther-Ogundipe/Portfolio-Project-1/tree/develop)
+# [Project 3; Classification in R Programming](https://github.com/Esther-Ogundipe/Portfolio-Project-1/tree/develop)
 
 # Sentiment Analysis
 
@@ -30,7 +30,7 @@ Sentiment analysis is the process of computationally identifying and categorizin
 
 ![](/word_cloud.png) 
 
-# [Project 2: Exploratory Data Analysis](https://www.kaggle.com/estherogundipe/london-housing-dataset-eda)
+# [Project 2; Exploratory Data Analysis](https://www.kaggle.com/estherogundipe/london-housing-dataset-eda)
 
 # London Housing Dataset Analysis
 
@@ -39,7 +39,7 @@ Exploratory Data Analysis with Python using a dataset of Housing in London. I tr
 
 ![](/image_london_housing.png)
 
-# [Project 1: IBM Data Science Capstone Project](https://github.com/Esther-Ogundipe/Data-Science-Porfolio)
+# [Project 1; IBM Data Science Capstone Project](https://github.com/Esther-Ogundipe/Data-Science-Porfolio)
 
 # Battle of Neighborhoods
 
