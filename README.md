@@ -3,7 +3,7 @@
 # Analysis of Sales
 
 ## Project Overview
-Project using python pandas and matplotlib to establish relationships between different variable.
+Project using python pandas and matplotlib to establish relationships between different variables.
 
 * Data cleaning: Droping NaN values, changing column type.
 * Exploring five business questions: What month, city and product made the most sales and what is the best time for advertisement
